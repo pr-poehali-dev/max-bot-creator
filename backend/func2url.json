@@ -1,0 +1,5 @@
+{
+  "register-bot": "https://functions.poehali.dev/e7a3b19a-52a6-484b-bd1c-8c4d9cfb65a1",
+  "get-bots": "https://functions.poehali.dev/24fdc256-d677-4587-a2f8-e1a842fe2bae",
+  "tg-webhook": "https://functions.poehali.dev/dfca5001-b488-4041-890d-ca1f719ab66a"
+}
